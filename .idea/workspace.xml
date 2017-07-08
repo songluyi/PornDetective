@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18515935-5b4d-406a-8130-0ca9c06d64ad" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/porndetective/test_Normal.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/porndetective/test.jpg" afterPath="$PROJECT_DIR$/porndetective/test.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/porndetective/scan_result.txt" afterPath="$PROJECT_DIR$/porndetective/scan_result.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <ignored path="porndetective.iws" />
@@ -42,7 +40,7 @@
       <file leaf-file-name="TestCase.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/porndetective/TestCase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
+            <state relative-caret-position="589">
               <caret line="34" column="30" lean-forward="false" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
               <folding />
             </state>
@@ -63,8 +61,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1368">
-                <caret line="72" column="3" lean-forward="false" selection-start-line="72" selection-start-column="3" selection-end-line="72" selection-end-column="3" />
+              <first_editor relative-caret-position="-461">
+                <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -128,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -158,6 +155,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -526,7 +524,7 @@
     <option name="totallyTimeSpent" value="5856000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20644216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -594,6 +592,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/porndetective/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7429">
@@ -923,7 +932,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/porndetective/TestCase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
+        <state relative-caret-position="589">
           <caret line="34" column="30" lean-forward="false" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
           <folding />
         </state>
@@ -945,8 +954,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1368">
-            <caret line="72" column="3" lean-forward="false" selection-start-line="72" selection-start-column="3" selection-end-line="72" selection-end-column="3" />
+          <first_editor relative-caret-position="-461">
+            <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />

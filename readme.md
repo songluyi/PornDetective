@@ -31,13 +31,13 @@ test.parse()
 ```
 
 And then you can see the result on your screen.
-##To do list
+## To do list
 list | principal | process | Expected completion time| what can you do
 ---|:---:|---|:---:|:---:
 Algorithm optimization | Louis Song | ![progress](http://progressed.io/bar/20) | **5** | wait
 fix Memory footprint issue | Louis Song | ![progress](http://progressed.io/bar/40) | **3** | wait
 
-##Ways to use
+## Ways to use
 **img url lists**
 ```python
 from porndetective import PornDetective
